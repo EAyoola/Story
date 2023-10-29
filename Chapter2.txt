@@ -1,0 +1,1 @@
+In Atlas, there are two types of database deployments, serverless instances and clusters. A serverless instance scales on-demand and only charges you for the resources that you use.

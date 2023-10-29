@@ -1,0 +1,1 @@
+There are options for both low and high traffic applications that have cluster auto-scaling enabled by default, as well as enhanced security features. This is the preferred choice for production workloads.
